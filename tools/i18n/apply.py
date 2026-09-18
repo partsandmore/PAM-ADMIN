@@ -19,14 +19,16 @@ sys.path.insert(0, "tools/i18n")
 from glossary import GLOSSARY
 from people import PERSON_MAP
 from glossary2 import EXTRA
+from glossary3 import CHAT
 
-PAGES = ["index.html", "email.html", "calendar.html", "todo.html", "notes.html",
+PAGES = ["index.html", "chat.html", "email.html", "calendar.html", "todo.html", "notes.html",
          "file-manager.html", "invoices.html", "kanban-view.html"]
 
 TABLE = {}
 TABLE.update(GLOSSARY)
 TABLE.update(PERSON_MAP)
 TABLE.update(EXTRA)
+TABLE.update(CHAT)
 
 # A translation must never itself be a key, or a second run would translate
 # it again ("Hrm" -> "Personal" -> "Persoenlich"). Fail loudly instead.

@@ -1,1174 +1,1182 @@
 [
  [
   "Titelbild",
-  184
+  207
  ],
  [
   "Einfach",
-  184
+  207
  ],
  [
   "Aufgaben",
-  117
- ],
- [
-  "Neu",
-  108
+  123
  ],
  [
   "Projekte",
-  103
+  114
  ],
  [
-  "Rechnungen",
-  94
+  "Neu",
+  112
  ],
  [
   "Löschen",
-  92
+  108
+ ],
+ [
+  "Rechnungen",
+  105
  ],
  [
   "Firmen",
-  80
+  90
  ],
  [
   "KI-Einstellungen",
-  77
+  87
+ ],
+ [
+  "Übersicht",
+  82
+ ],
+ [
+  "Aktivitäten",
+  81
  ],
  [
   "Bearbeiten",
   75
  ],
  [
-  "Übersicht",
-  73
- ],
- [
-  "Aktivitäten",
+  "Kategorien",
   72
  ],
  [
-  "Kategorien",
-  64
- ],
- [
   "Betriebsmittel",
-  64
+  72
  ],
  [
   "Einstellungen",
-  64
+  72
  ],
  [
   "Profil",
-  64
+  72
  ],
  [
   "Notizen",
-  59
+  66
  ],
  [
   "Bühnen",
-  56
+  63
  ],
  [
   "Anmeldung",
-  56
+  63
  ],
  [
   "Vertreter",
-  53
+  60
  ],
  [
   "Anwendungen",
-  50
+  56
  ],
  [
   "Kalender",
-  50
+  56
  ],
  [
   "Dateiverwaltung",
-  50
+  56
  ],
  [
   "E-Mail",
-  48
+  54
  ],
  [
   "Seiten",
-  48
+  54
  ],
  [
   "KI-Zentrum",
-  45
+  51
  ],
  [
   "KI-Anwesenheitsanalyse",
-  45
+  51
  ],
  [
   "KI-Lohnprognose",
-  45
+  51
  ],
  [
   "KI-Einstellungsprognose",
-  45
+  51
  ],
  [
   "KI-Gruppenleistungsanalyse",
-  45
+  51
  ],
  [
   "Verwaltungs-Übersicht",
-  42
+  47
  ],
  [
   "Kontakte",
-  40
+  45
  ],
  [
   "Geschäfte",
-  40
+  45
  ],
  [
   "Vertriebstrichter",
-  40
+  45
  ],
  [
   "Interessenten",
-  40
+  45
  ],
  [
   "Mitarbeiter-Übersicht",
-  40
+  45
  ],
  [
   "Geschäfte-Übersicht",
-  40
+  45
  ],
  [
   "Interessenten-Übersicht",
-  40
+  45
  ],
  [
   "Personal-Übersicht",
-  40
+  45
  ],
  [
   "Lohn-Übersicht",
-  40
+  45
  ],
  [
   "Personalgewinnungs-Übersicht",
-  40
+  45
  ],
  [
   "Anwesenheits-Übersicht",
-  40
+  45
  ],
  [
   "Finanz-Übersicht",
-  40
+  45
  ],
  [
   "IT-Übersicht",
-  40
+  45
  ],
  [
   "Betriebsmittel-Übersicht",
-  40
+  45
  ],
  [
   "Support-Übersicht",
-  40
+  45
  ],
  [
   "Abonnements",
-  40
+  45
  ],
  [
   "Pakete",
-  40
+  45
  ],
  [
   "Domäne",
-  40
+  45
  ],
  [
   "Einkaufsvorgang",
-  40
+  45
  ],
  [
   "Nutzungskennzahlen der Mandanten",
-  40
+  45
  ],
  [
   "Support-Tickets der Mandanten",
-  40
+  45
  ],
  [
   "Service-Richtlinien",
-  40
+  45
  ],
  [
   "Eskalationsregeln",
-  40
+  45
  ],
  [
   "Anrufe",
-  40
+  45
  ],
  [
   "Sprachanruf",
-  40
+  45
  ],
  [
   "Videoanruf",
-  40
+  45
  ],
  [
   "Ausgehender Anruf",
-  40
+  45
  ],
  [
   "Eingehender Anruf",
-  40
+  45
  ],
  [
   "Anrufverlauf",
-  40
+  45
  ],
  [
   "Wissensdatenbank",
-  40
+  45
  ],
  [
   "Basis-Oberfläche",
-  40
+  45
  ],
  [
   "Kunden",
-  34
+  38
  ],
  [
   "Bewerber",
-  34
- ],
- [
-  "Mitarbeiter",
-  33
- ],
- [
-  "Leistung",
-  33
- ],
- [
-  "Ausgaben",
-  33
- ],
- [
-  "Urlaubsart",
-  33
+  38
  ],
  [
   "Galerie",
-  33
+  38
+ ],
+ [
+  "Mitarbeiter",
+  37
+ ],
+ [
+  "Leistung",
+  37
+ ],
+ [
+  "Ausgaben",
+  37
+ ],
+ [
+  "Urlaubsart",
+  37
  ],
  [
   "Superadministrator",
-  32
+  36
  ],
  [
   "Abgesetzt",
-  32
+  36
  ],
  [
   "Zweispaltig",
-  32
+  36
  ],
  [
   "Schwebend",
-  32
+  36
  ],
  [
   "Umrahmt",
-  32
+  36
  ],
  [
   "Horizontal einzeilig",
-  32
+  36
  ],
  [
   "Horizontal überlagert",
-  32
+  36
  ],
  [
   "Horizontal umrahmt",
-  32
+  36
  ],
  [
   "Menü seitlich",
-  32
+  36
  ],
  [
   "Ohne Kopfzeile",
-  32
+  36
  ],
  [
   "Rechts-nach-links",
-  32
+  36
  ],
  [
   "Dunkel",
-  32
+  36
  ],
  [
   "Aufgabentafel",
-  32
+  36
  ],
  [
   "Auswertungen",
-  32
+  36
  ],
  [
   "Mitarbeiterlisten",
-  32
+  36
  ],
  [
   "Mitarbeiterraster",
-  32
+  36
  ],
  [
   "Mitarbeiterdaten",
-  32
+  36
  ],
  [
   "Abteilungen",
-  32
+  36
  ],
  [
   "Positionen",
-  32
+  36
  ],
  [
   "Richtlinien",
-  32
+  36
  ],
  [
   "Ticketdaten",
-  32
+  36
  ],
  [
   "Ticket-Automatisierung",
-  32
+  36
  ],
  [
   "Ticketberichte",
-  32
+  36
  ],
  [
   "Feiertage",
-  32
+  36
  ],
  [
   "Anwesenheit",
-  32
+  36
  ],
  [
   "Urlaub",
-  32
+  36
  ],
  [
   "Urlaub (Verwaltung)",
-  32
+  36
  ],
  [
   "Urlaub (Mitarbeiter)",
-  32
+  36
  ],
  [
   "Urlaubseinstellungen",
-  32
+  36
  ],
  [
   "Anwesenheit (Verwaltung)",
-  32
+  36
  ],
  [
   "Anwesenheit (Mitarbeiter)",
-  32
+  36
  ],
  [
   "Zeiterfassung",
-  32
+  36
  ],
  [
   "Schicht & Dienstplan",
-  32
+  36
  ],
  [
   "Schichttausch-Anträge",
-  32
+  36
  ],
  [
   "Überstunden",
-  32
+  36
  ],
  [
   "Feiertagskalender",
-  32
+  36
  ],
  [
   "Homeoffice-Verwaltung",
-  32
+  36
  ],
  [
   "Leistungskennzahl",
-  32
+  36
  ],
  [
   "Leistungsgespräch",
-  32
+  36
  ],
  [
   "Leistungsbeurteilung",
-  32
+  36
  ],
  [
   "Zielliste",
-  32
+  36
  ],
  [
   "Zielart",
-  32
+  36
  ],
  [
   "Schulung",
-  32
+  36
  ],
  [
   "Schulungsliste",
-  32
+  36
  ],
  [
   "Trainer",
-  32
+  36
  ],
  [
   "Schulungsart",
-  32
+  36
  ],
  [
   "Zertifikatsverwaltung",
-  32
+  36
  ],
  [
   "Lernauswertung",
-  32
+  36
  ],
  [
   "Probezeitverwaltung",
-  32
+  36
  ],
  [
   "Kündigungsfristen",
-  32
+  36
  ],
  [
   "Beförderung",
-  32
+  36
  ],
  [
   "Kündigung",
-  32
+  36
  ],
  [
   "Entlassung",
-  32
+  36
  ],
  [
   "Stellen",
-  32
+  36
  ],
  [
   "Empfehlungen",
-  32
+  36
  ],
  [
   "Lebenslauf-Auswertung",
-  32
+  36
  ],
  [
   "Hochschulrekrutierung",
-  32
+  36
  ],
  [
   "Vertrieb",
-  32
+  36
  ],
  [
   "Angebote",
-  32
+  36
  ],
  [
   "Zahlungen",
-  32
+  36
  ],
  [
   "Vorsorgekasse",
-  32
+  36
  ],
  [
   "Steuern",
-  32
+  36
  ],
  [
   "Buchhaltung",
-  32
+  36
  ],
  [
   "Budget-Ausgaben",
-  32
+  36
  ],
  [
   "Budget-Einnahmen",
-  32
+  36
  ],
  [
   "Lohnabrechnung",
-  32
+  36
  ],
  [
   "Mitarbeitergehalt",
-  32
+  36
  ],
  [
   "Lohnzettel",
-  32
+  36
  ],
  [
   "Lohnpositionen",
-  32
+  36
  ],
  [
   "Betriebsmittel-Kategorien",
-  32
+  36
  ],
  [
   "Hilfe & Support",
-  32
+  36
  ],
  [
   "Benutzerverwaltung",
-  32
+  36
  ],
  [
   "Benutzer",
-  32
+  36
  ],
  [
   "Rollen & Berechtigungen",
-  32
+  36
  ],
  [
   "Berichte",
-  32
+  36
  ],
  [
   "Ausgabenbericht",
-  32
+  36
  ],
  [
   "Rechnungsbericht",
-  32
+  36
  ],
  [
   "Zahlungsbericht",
-  32
+  36
  ],
  [
   "Projektbericht",
-  32
+  36
  ],
  [
   "Aufgabenbericht",
-  32
+  36
  ],
  [
   "Benutzerbericht",
-  32
+  36
  ],
  [
   "Mitarbeiterbericht",
-  32
+  36
  ],
  [
   "Lohnzettelbericht",
-  32
+  36
  ],
  [
   "Anwesenheitsbericht",
-  32
+  36
  ],
  [
   "Urlaubsbericht",
-  32
+  36
  ],
  [
   "Tagesbericht",
-  32
+  36
  ],
  [
   "Allgemeine Einstellungen",
-  32
+  36
  ],
  [
   "Sicherheit",
-  32
+  36
  ],
  [
   "Benachrichtigungen",
-  32
+  36
  ],
  [
   "Verbundene Anwendungen",
-  32
+  36
  ],
  [
   "Webseiten-Einstellungen",
-  32
+  36
  ],
  [
   "Geschäftseinstellungen",
-  32
+  36
  ],
  [
   "SEO-Einstellungen",
-  32
+  36
  ],
  [
   "Regionaleinstellungen",
-  32
+  36
  ],
  [
   "Präfixe",
-  32
+  36
  ],
  [
   "Darstellung",
-  32
+  36
  ],
  [
   "Sprache",
-  32
+  36
  ],
  [
   "Anwendungseinstellungen",
-  32
+  36
  ],
  [
   "Gehaltseinstellungen",
-  32
+  36
  ],
  [
   "Genehmigungseinstellungen",
-  32
+  36
  ],
  [
   "Rechnungseinstellungen",
-  32
+  36
  ],
  [
   "Eigene Felder",
-  32
+  36
  ],
  [
   "Systemeinstellungen",
-  32
+  36
  ],
  [
   "E-Mail-Einstellungen",
-  32
+  36
  ],
  [
   "E-Mail-Vorlagen",
-  32
+  36
  ],
  [
   "SMS-Einstellungen",
-  32
+  36
  ],
  [
   "SMS-Vorlagen",
-  32
+  36
  ],
  [
   "Einmalkennwort",
-  32
+  36
  ],
  [
   "DSGVO-Cookies",
-  32
+  36
  ],
  [
   "Wartungsmodus",
-  32
+  36
  ],
  [
   "Finanzeinstellungen",
-  32
+  36
  ],
  [
   "Zahlungsanbieter",
-  32
+  36
  ],
  [
   "Steuersatz",
-  32
+  36
  ],
  [
   "Währungen",
-  32
+  36
  ],
  [
   "Weitere Einstellungen",
-  32
+  36
  ],
  [
   "Eigenes CSS",
-  32
+  36
  ],
  [
   "Eigenes JavaScript",
-  32
+  36
  ],
  [
   "Zeitgesteuerte Aufgabe",
-  32
+  36
  ],
  [
   "Speicher",
-  32
+  36
  ],
  [
   "IP-Adresse sperren",
-  32
+  36
  ],
  [
   "Sicherung",
-  32
+  36
  ],
  [
   "Zwischenspeicher leeren",
-  32
+  36
  ],
  [
   "Startseite",
-  32
+  36
  ],
  [
   "Suchergebnisse",
-  32
+  36
  ],
  [
   "Verlauf",
-  32
+  36
  ],
  [
   "Preise",
-  32
+  36
  ],
  [
   "Demnächst",
-  32
+  36
  ],
  [
   "Wartungsarbeiten",
-  32
+  36
  ],
  [
   "Im Aufbau",
-  32
+  36
  ],
  [
   "API-Schlüssel",
-  32
+  36
  ],
  [
   "Datenschutzerklärung",
-  32
+  36
  ],
  [
   "Allgemeine Geschäftsbedingungen",
-  32
+  36
  ],
  [
   "Alle Blogs",
-  32
+  36
  ],
  [
   "Kommentare",
-  32
+  36
  ],
  [
   "Standorte",
-  32
+  36
  ],
  [
   "Länder",
-  32
+  36
  ],
  [
   "Bundesländer",
-  32
+  36
  ],
  [
   "Städte",
-  32
+  36
  ],
  [
   "Kundenstimmen",
-  32
+  36
  ],
  [
   "HÄUFIGE FRAGEN",
-  32
+  36
  ],
  [
   "Anmelden",
-  32
+  36
  ],
  [
   "Registrieren",
-  32
+  36
  ],
  [
   "Kennwort zurücksetzen",
-  32
+  36
  ],
  [
   "E-Mail-Bestätigung",
-  32
+  36
  ],
  [
   "Zwei-Faktor-Bestätigung",
-  32
+  36
  ],
  [
   "Bildschirmsperre",
-  32
+  36
  ],
  [
   "Fehler 404",
-  32
+  36
  ],
  [
   "Fehler 500",
-  32
+  36
  ],
  [
   "Hinweise",
-  32
+  36
  ],
  [
   "Akkordeon",
-  32
+  36
  ],
  [
   "Benutzerbild",
-  32
+  36
  ],
  [
   "Abzeichen",
-  32
+  36
  ],
  [
   "Navigationspfad",
-  32
+  36
  ],
  [
   "Schaltflächen",
-  32
+  36
  ],
  [
   "Schaltflächengruppe",
-  32
+  36
  ],
  [
   "Karte",
-  32
+  36
  ],
  [
   "Bilderkarussell",
-  32
+  36
  ],
  [
   "Einklappen",
-  32
+  36
  ],
  [
   "Auswahllisten",
-  32
+  36
  ],
  [
   "Verhältnis",
-  32
+  36
  ],
  [
   "Raster",
-  32
+  36
  ],
  [
   "Bilder",
-  32
+  36
  ],
  [
   "Verknüpfungen",
-  32
+  36
  ],
  [
   "Listengruppen",
-  32
+  36
  ],
  [
   "Dialoge",
-  32
+  36
  ],
  [
   "Seitenbereich",
-  32
+  36
  ],
  [
   "Seitennummerierung",
-  32
+  36
  ],
  [
   "Platzhalter",
-  32
+  36
  ],
  [
   "Sprechblasen",
-  32
+  36
  ],
  [
   "Fortschritt",
-  32
+  36
  ],
  [
   "Ladeanzeige",
-  32
+  36
  ],
  [
   "Reiter",
-  32
+  36
  ],
  [
   "Kurzmeldungen",
-  32
+  36
  ],
  [
   "Kurzinfos",
-  32
+  36
  ],
  [
   "Schriftbild",
-  32
+  36
  ],
  [
   "Erweiterte Oberfläche",
-  32
+  36
  ],
  [
   "Zwischenablage",
-  32
+  36
  ],
  [
   "Hinweisdialoge",
-  32
+  36
  ],
  [
   "Bildbetrachter",
-  32
+  36
  ],
  [
   "Bildlaufleiste",
-  32
+  36
  ],
  [
   "Formulare",
-  32
+  36
  ],
  [
   "Formularelemente",
-  32
+  36
  ],
  [
   "Einfache Eingabefelder",
-  32
+  36
  ],
  [
   "Kontrollkästchen & Auswahlfelder",
-  32
+  36
  ],
  [
   "Eingabegruppen",
-  32
+  36
  ],
  [
   "Raster & Abstände",
-  32
+  36
  ],
  [
   "Auswahlfeld",
-  32
+  36
  ],
  [
   "Eingabemasken",
-  32
+  36
  ],
  [
   "Datei-Uploads",
-  32
+  36
  ],
  [
   "Waagerechtes Formular",
-  32
+  36
  ],
  [
   "Senkrechtes Formular",
-  32
+  36
  ],
  [
   "Schwebende Beschriftungen",
-  32
+  36
  ],
  [
   "Formularprüfung",
-  32
+  36
  ],
  [
   "Formularassistent",
-  32
+  36
  ],
  [
   "Formularauswahl",
-  32
+  36
  ],
  [
   "Tabellen",
-  32
+  36
  ],
  [
   "Einfache Tabellen",
-  32
+  36
  ],
  [
   "Datentabelle",
-  32
+  36
  ],
  [
   "Diagramme",
-  32
+  36
  ],
  [
   "Apex-Diagramme",
-  32
+  36
  ],
  [
   "C3-Diagramm",
-  32
+  36
  ],
  [
   "Chart.js-Diagramme",
-  32
+  36
  ],
  [
   "Morris-Diagramme",
-  32
+  36
  ],
  [
   "Flot-Diagramme",
-  32
+  36
  ],
  [
   "Symbole",
-  32
+  36
  ],
  [
   "Fontawesome-Symbole",
-  32
+  36
  ],
  [
   "Tabler-Symbole",
-  32
+  36
  ],
  [
   "Bootstrap-Symbole",
-  32
+  36
  ],
  [
   "Remix-Symbole",
-  32
+  36
  ],
  [
   "Feather-Symbole",
-  32
+  36
  ],
  [
   "Ionic-Symbole",
-  32
+  36
  ],
  [
   "Material-Symbole",
-  32
+  36
  ],
  [
   "Pe7-Symbole",
-  32
+  36
  ],
  [
   "Simpleline-Symbole",
-  32
+  36
  ],
  [
   "Themify-Symbole",
-  32
+  36
  ],
  [
   "Wetter-Symbole",
-  32
+  36
  ],
  [
   "Typicon-Symbole",
-  32
+  36
  ],
  [
   "Flaggen-Symbole",
-  32
+  36
  ],
  [
   "Dokumentation",
-  32
+  36
  ],
  [
   "Änderungsprotokoll",
-  32
+  36
  ],
  [
   "Andreas Hartmann",
-  32
+  36
  ],
  [
   "Systemadministrator",
-  32
+  36
+ ],
+ [
+  "Neuigkeiten",
+  33
  ],
  [
   "Ansehen",
   32
  ],
  [
-  "Neuigkeiten",
+  "Schlagwörter",
+  30
+ ],
+ [
+  "Alle ansehen",
   30
  ],
  [
@@ -1176,15 +1184,63 @@
   30
  ],
  [
-  "Alle ansehen",
-  29
- ],
- [
   "Hoch",
   28
  ],
  [
-  "Schlagwörter",
+  "Kundenpflege",
+  27
+ ],
+ [
+  "Personalgewinnung",
+  27
+ ],
+ [
+  "Verwaltung",
+  27
+ ],
+ [
+  "Profileinstellungen",
+  27
+ ],
+ [
+  "Inhalte",
+  27
+ ],
+ [
+  "Kennwort vergessen",
+  27
+ ],
+ [
+  "Mehrstufig",
+  27
+ ],
+ [
+  "Mehrstufig 1",
+  27
+ ],
+ [
+  "Mehrstufig 2",
+  27
+ ],
+ [
+  "Mehrstufig 2.1",
+  27
+ ],
+ [
+  "Mehrstufig 2.2",
+  27
+ ],
+ [
+  "Mehrstufig 2.2.1",
+  27
+ ],
+ [
+  "Mehrstufig 2.2.2",
+  27
+ ],
+ [
+  "Mehrstufig 3",
   27
  ],
  [
@@ -1208,68 +1264,12 @@
   26
  ],
  [
-  "Kundenpflege",
-  24
- ],
- [
-  "Personalgewinnung",
-  24
- ],
- [
-  "Verwaltung",
-  24
- ],
- [
-  "Profileinstellungen",
-  24
- ],
- [
-  "Inhalte",
-  24
- ],
- [
-  "Kennwort vergessen",
-  24
- ],
- [
-  "Mehrstufig",
-  24
- ],
- [
-  "Mehrstufig 1",
-  24
- ],
- [
-  "Mehrstufig 2",
-  24
- ],
- [
-  "Mehrstufig 2.1",
-  24
- ],
- [
-  "Mehrstufig 2.2",
-  24
- ],
- [
-  "Mehrstufig 2.2.1",
-  24
- ],
- [
-  "Mehrstufig 2.2.2",
-  24
- ],
- [
-  "Mehrstufig 3",
-  24
- ],
- [
   "Heute",
-  24
+  25
  ],
  [
   "Abbrechen",
-  23
+  24
  ],
  [
   "Auswählen",
@@ -1277,7 +1277,7 @@
  ],
  [
   "Diese Woche",
-  21
+  22
  ],
  [
   "Nicht wichtig",
@@ -1285,38 +1285,38 @@
  ],
  [
   "STRG + /",
-  16
+  18
  ],
  [
   "KUNDENPFLEGE",
-  16
+  18
  ],
  [
   "Haupt",
-  16
- ],
- [
-  "personal",
-  16
+  18
  ],
  [
   "Oberfläche",
-  16
+  18
  ],
  [
   "Mein Profil",
-  16
+  18
  ],
  [
   "Abmelden",
-  16
+  18
  ],
  [
   "HAUPTMENÜ",
-  16
+  18
  ],
  [
   "Willkommen bei PAMADMIN",
+  18
+ ],
+ [
+  "personal",
   16
  ],
  [
@@ -1326,6 +1326,18 @@
  [
   "Neues Projekt",
   16
+ ],
+ [
+  "Anton Lehmann",
+  15
+ ],
+ [
+  "Antworten",
+  15
+ ],
+ [
+  "Weiterleiten",
+  15
  ],
  [
   "In Arbeit",
@@ -1340,6 +1352,14 @@
   12
  ],
  [
+  "Letzter Monat",
+  11
+ ],
+ [
+  "Posteingang",
+  11
+ ],
+ [
   "Priorität",
   11
  ],
@@ -1352,11 +1372,11 @@
   11
  ],
  [
-  "Letzter Monat",
+  "Letzte Woche",
   10
  ],
  [
-  "Posteingang",
+  "Dateien",
   10
  ],
  [
@@ -1388,19 +1408,151 @@
   10
  ],
  [
-  "Letzte Woche",
+  "Benachrichtigungen (2)",
   9
  ],
  [
-  "Dateien",
+  "Alle als gelesen markieren",
+  9
+ ],
+ [
+  "Sven",
+  9
+ ],
+ [
+  "Leistung in Mathematik liegt unter dem Schwellenwert.",
+  9
+ ],
+ [
+  "Gerade eben",
+  9
+ ],
+ [
+  "Silvia",
+  9
+ ],
+ [
+  "hat einen Termin um 14:00 Uhr eingetragen",
+  9
+ ],
+ [
+  "vor 10 Minuten",
+  9
+ ],
+ [
+  "Ablehnen",
+  9
+ ],
+ [
+  "Genehmigen",
+  9
+ ],
+ [
+  "Neuer Schülereintrag",
+  9
+ ],
+ [
+  "Georg",
+  9
+ ],
+ [
+  "wurde angelegt von",
+  9
+ ],
+ [
+  "Theresa",
+  9
+ ],
+ [
+  "vor 2 Stunden",
+  9
+ ],
+ [
+  "Ein neuer Lehrereintrag für",
+  9
+ ],
+ [
+  "Kevin Lorenz",
+  9
+ ],
+ [
+  "werner@example.com",
+  9
+ ],
+ [
+  "Mein Konto",
+  9
+ ],
+ [
+  "Menü",
+  9
+ ],
+ [
+  "Start",
+  9
+ ],
+ [
+  "Whatsapp",
+  9
+ ],
+ [
+  "Werkstattplaner",
+  9
+ ],
+ [
+  "ANWENDUNGEN",
+  9
+ ],
+ [
+  "SUPERADMIN",
+  9
+ ],
+ [
+  "PROJEKTE",
+  9
+ ],
+ [
+  "PERSONALGEWINNUNG",
+  9
+ ],
+ [
+  "FINANZEN & BUCHHALTUNG",
+  9
+ ],
+ [
+  "VERWALTUNG",
+  9
+ ],
+ [
+  "INHALTE",
+  9
+ ],
+ [
+  "Blog-Schlagwörter",
+  9
+ ],
+ [
+  "SEITEN",
+  9
+ ],
+ [
+  "ANMELDUNG",
+  9
+ ],
+ [
+  "OBERFLÄCHE",
+  9
+ ],
+ [
+  "Personalwesen",
+  9
+ ],
+ [
+  "Finanzen & Buchhaltung",
   9
  ],
  [
   "Dieser Monat",
-  9
- ],
- [
-  "Anton Lehmann",
   9
  ],
  [
@@ -1412,147 +1564,7 @@
   9
  ],
  [
-  "Benachrichtigungen (2)",
-  8
- ],
- [
-  "Alle als gelesen markieren",
-  8
- ],
- [
-  "Sven",
-  8
- ],
- [
-  "Leistung in Mathematik liegt unter dem Schwellenwert.",
-  8
- ],
- [
-  "Gerade eben",
-  8
- ],
- [
-  "Silvia",
-  8
- ],
- [
-  "hat einen Termin um 14:00 Uhr eingetragen",
-  8
- ],
- [
-  "vor 10 Minuten",
-  8
- ],
- [
-  "Ablehnen",
-  8
- ],
- [
-  "Genehmigen",
-  8
- ],
- [
-  "Neuer Schülereintrag",
-  8
- ],
- [
-  "Georg",
-  8
- ],
- [
-  "wurde angelegt von",
-  8
- ],
- [
-  "Theresa",
-  8
- ],
- [
-  "vor 2 Stunden",
-  8
- ],
- [
-  "Ein neuer Lehrereintrag für",
-  8
- ],
- [
-  "Kevin Lorenz",
-  8
- ],
- [
-  "werner@example.com",
-  8
- ],
- [
-  "Mein Konto",
-  8
- ],
- [
-  "Menü",
-  8
- ],
- [
-  "Start",
-  8
- ],
- [
-  "Werkstattplaner",
-  8
- ],
- [
-  "ANWENDUNGEN",
-  8
- ],
- [
-  "SUPERADMIN",
-  8
- ],
- [
-  "PROJEKTE",
-  8
- ],
- [
   "PERSONAL",
-  8
- ],
- [
-  "PERSONALGEWINNUNG",
-  8
- ],
- [
-  "FINANZEN & BUCHHALTUNG",
-  8
- ],
- [
-  "VERWALTUNG",
-  8
- ],
- [
-  "INHALTE",
-  8
- ],
- [
-  "Blog-Schlagwörter",
-  8
- ],
- [
-  "SEITEN",
-  8
- ],
- [
-  "ANMELDUNG",
-  8
- ],
- [
-  "OBERFLÄCHE",
-  8
- ],
- [
-  "Personalwesen",
-  8
- ],
- [
-  "Finanzen & Buchhaltung",
   8
  ],
  [
@@ -1560,19 +1572,15 @@
   8
  ],
  [
+  "PAMADMIN",
+  8
+ ],
+ [
   "E-Mail öffnen",
   8
  ],
  [
-  "Antworten",
-  8
- ],
- [
   "Allen antworten",
-  8
- ],
- [
-  "Weiterleiten",
   8
  ],
  [
@@ -1604,7 +1612,11 @@
   8
  ],
  [
-  "PAMADMIN",
+  "Dominik Martens",
+  7
+ ],
+ [
+  "Bernd Vollmer",
   7
  ],
  [
@@ -1621,14 +1633,6 @@
  ],
  [
   "UX-Gestalter",
-  6
- ],
- [
-  "Dominik Martens",
-  6
- ],
- [
-  "Bernd Vollmer",
   6
  ],
  [
@@ -1661,6 +1665,10 @@
  ],
  [
   "Als Excel exportieren",
+  5
+ ],
+ [
+  "Stefan Perlat",
   5
  ],
  [
@@ -1704,15 +1712,15 @@
   5
  ],
  [
-  "Stefan Perlat",
-  4
- ],
- [
   "Neue Aufgabe anlegen",
   4
  ],
  [
   "Besprechungen",
+  4
+ ],
+ [
+  "Hartmut Schmidt",
   4
  ],
  [
@@ -1816,10 +1824,6 @@
   3
  ],
  [
-  "Hartmut Schmidt",
-  3
- ],
- [
   "Beschreibung",
   3
  ],
@@ -1829,6 +1833,14 @@
  ],
  [
   "Inaktiv",
+  3
+ ],
+ [
+  "Dokument",
+  3
+ ],
+ [
+  "Linda Reiter",
   3
  ],
  [
@@ -1989,6 +2001,26 @@
  ],
  [
   "Speichern",
+  2
+ ],
+ [
+  "personalwesen",
+  2
+ ],
+ [
+  "Elias Moser",
+  2
+ ],
+ [
+  "Rebekka Schmitt",
+  2
+ ],
+ [
+  "Lora Breuer",
+  2
+ ],
+ [
+  "Standort",
   2
  ],
  [
@@ -2160,10 +2192,6 @@
   2
  ],
  [
-  "Dokument",
-  2
- ],
- [
   "35 Dateien",
   2
  ],
@@ -2201,10 +2229,6 @@
  ],
  [
   "Mitglieder hinzufügen",
-  2
- ],
- [
-  "Linda Reiter",
   2
  ],
  [
@@ -2840,6 +2864,14 @@
   1
  ],
  [
+  "PERSONALWESEN",
+  1
+ ],
+ [
+  "Yes, we’ll be using a time-tracking tool to log hours. You’ll need to ensure you’re available during your usual working hours and keep your manager updated if anything changes.",
+  1
+ ],
+ [
   "Verfassen",
   1
  ],
@@ -3324,10 +3356,6 @@
   1
  ],
  [
-  "Standort",
-  1
- ],
- [
   "Letzte Aktivität",
   1
  ],
@@ -3456,19 +3484,11 @@
   1
  ],
  [
-  "Elias Moser",
-  1
- ],
- [
   "moser@example.com",
   1
  ],
  [
   "INV-6874",
-  1
- ],
- [
-  "Rebekka Schmitt",
   1
  ],
  [
@@ -3489,10 +3509,6 @@
  ],
  [
   "INV-5879",
-  1
- ],
- [
-  "Lora Breuer",
   1
  ],
  [
