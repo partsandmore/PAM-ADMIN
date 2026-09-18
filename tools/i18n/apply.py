@@ -28,6 +28,13 @@ TABLE.update(GLOSSARY)
 TABLE.update(PERSON_MAP)
 TABLE.update(EXTRA)
 
+# A translation must never itself be a key, or a second run would translate
+# it again ("Hrm" -> "Personal" -> "Persoenlich"). Fail loudly instead.
+_collisions = [(k, v) for k, v in TABLE.items() if v in TABLE and TABLE[v] != v]
+if _collisions:
+    raise SystemExit("glossary collision, output would be re-translated: "
+                     + ", ".join(f"{k!r}->{v!r}->{TABLE[v]!r}" for k, v in _collisions))
+
 ATTRS = re.compile(r'\b(placeholder|title|alt|aria-label)="([^"]*)"')
 TEXT  = re.compile(r">([^<>]+)<")
 norm  = lambda t: " ".join(t.split())
