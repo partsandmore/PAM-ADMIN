@@ -103,4 +103,4 @@ if __name__ == "__main__":
     json.dump(leftover.most_common(), open("tools/i18n/untranslated.json", "w",
               encoding="utf-8"), ensure_ascii=False, indent=1)
     print(f"  {len(leftover)} distinct strings left untranslated "
-          f"-> .claude/i18n/untranslated.json")
+          f"-> tools/i18n/untranslated.json")
